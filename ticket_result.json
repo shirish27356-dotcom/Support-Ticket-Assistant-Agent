@@ -1,0 +1,10 @@
+[
+  {
+    "ticket": "{\"category\":\"billing\",\"urgency\":\"high\",\"summary\":\"Duplicate charge for order 1234\"}",
+    "reply": "I\u2019m sorry to hear that you\u2019ve been charged twice for order **1234**. Let\u2019s get this sorted out right away.\n\n1. **Confirm the duplicate charge**  \n   - Please double\u2011check your bank statement or payment app to confirm that two separate transactions for the same amount appear for this order.  \n   - If you can, note the dates, times, and transaction IDs (if available).\n\n2. **Check the order status**  \n   - I\u2019ll pull up the order details for you.  \n   - While I\u2019m doing that, could you let me know if you received the product(s) and whether the shipment was delivered or still in transit?\n\n3. **Next steps**  \n   - If the order was indeed processed twice, we\u2019ll issue a refund for the duplicate amount.  \n   - If the product was shipped twice, we\u2019ll arrange for a return pickup (if needed) and refund the extra shipment cost.  \n   - If the duplicate charge is a payment error, we\u2019ll still refund the over\u2011charged amount.\n\nI\u2019m pulling up the order now. In the meantime, could you please confirm the points above? Once I have the order details, I\u2019ll be able to process the refund and ensure you\u2019re not charged again.",
+    "summary": "Duplicate charge for order 1234",
+    "urgency": "high",
+    "category": "billing",
+    "customer_message": "i was charged 2 times for order 1234"
+  }
+]
